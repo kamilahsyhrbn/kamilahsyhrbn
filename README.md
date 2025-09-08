@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kamilah Syahrabanu 👋🏻</h1>
-<h3 align="center">A Junior Frontend Web Developer who loves creating clean and interactive websites.</h3>
+<h3 align="center">A Frontend Web Developer who loves creating clean and interactive websites.</h3>
 <p align="center">I usually work with React, Tailwind CSS, and the MERN stack, and right now I’m diving into Next.js and TypeScript. I enjoy learning emerging technologies, improving best practices in frontend development, and gradually expanding my backend skills for a stronger fullstack foundation. If you have any projects or collaborations in mind, feel free to contact me! 🚀</p>
 
 ## 🛠 Tech Stack
